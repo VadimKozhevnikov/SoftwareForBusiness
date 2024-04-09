@@ -1,0 +1,57 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:qr="using:QRCodeForAvalonia.QRCode"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="Project.Views.ListPatientView">
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition/>
+      <RowDefinition Height="10*"/>
+    </Grid.RowDefinitions>
+    <StackPanel Orientation="Horizontal"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Center">
+      <Button Content="Госпитализация"
+              Command="{Binding Gospital}"/>
+      <Button Content="Пациент"
+              Command="{Binding PatientPage}"/>
+    </StackPanel>
+    <StackPanel HorizontalAlignment="Center"
+                VerticalAlignment="Center">
+      <TextBlock Text="Список пациентов"
+                 FontSize="20"/>
+    </StackPanel>
+    <ListBox ItemsSource="{Binding Patient}" Grid.Row="1">
+      <ListBox.ItemTemplate>
+        <DataTemplate>
+          <StackPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal">
+              <TextBlock Text="Id:"/>
+              <TextBlock Text="{Binding Id}"
+                          Margin="5 0"/>
+              <TextBlock Text="{Binding FirstName}"
+                          Margin="5 0"/>
+              <TextBlock Text="{Binding SurName}"
+                          Margin="5 0"/>
+              <qr:QRCode Data="{Binding FirstName}"
+                          Height="70"
+                          Width="70"/>
+              <Image Source="{Binding ImageURL}"
+                     Height="70"
+                     Width="70"/>
+            </StackPanel>
+          </StackPanel>
+        </DataTemplate>
+      </ListBox.ItemTemplate>
+    </ListBox>
+    <TextBox Grid.Row="0"
+             Width="100"
+             HorizontalAlignment="Left"
+             Text="{Binding Search}"/>
+    <Button Content="Поиск"
+            Margin="100 0 0 0"
+            Command="{Binding BtnSearch}"/>
+  </Grid>
+</UserControl>

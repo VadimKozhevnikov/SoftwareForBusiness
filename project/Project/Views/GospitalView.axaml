@@ -1,0 +1,218 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="Project.Views.GospitalView">
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition/>
+			<RowDefinition/>
+			<RowDefinition/>
+			<RowDefinition/>
+		</Grid.RowDefinitions>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition/>
+			<ColumnDefinition/>
+			<ColumnDefinition/>
+		</Grid.ColumnDefinitions>
+		<StackPanel Orientation="Horizontal"
+					Grid.Column="0"
+					Grid.RowSpan="3"
+					Grid.ColumnSpan="3"
+					HorizontalAlignment="Center">
+			<Grid>
+				<Grid.ColumnDefinitions>
+					<ColumnDefinition/>
+					<ColumnDefinition/>
+				</Grid.ColumnDefinitions>
+				<Grid.RowDefinitions>
+					<RowDefinition/>
+					<RowDefinition/>
+					<RowDefinition/>
+				</Grid.RowDefinitions>
+				<StackPanel Orientation="Vertical"
+							Margin="10 10">
+					<Border BorderBrush="Black"
+							BorderThickness="2"
+							Background="LightYellow">
+						<StackPanel Orientation="Vertical"
+							Grid.Column="0"
+							Margin="20 10">
+							<TextBlock Text="Пациент"
+									   HorizontalAlignment="Center"/>
+							<StackPanel Orientation="Horizontal">
+								<StackPanel Orientation="Vertical">
+									<TextBlock Text="Фамилия:"
+											   Margin="10 10"
+											   HorizontalAlignment="Right"/>
+									<TextBlock Text="Имя:"
+											   Margin="10 10"
+											   HorizontalAlignment="Right"/>
+									<TextBlock Text="Отчество:"
+											   Margin="10 10"
+											   HorizontalAlignment="Right"/>
+									<TextBlock Text="Серия паспорта:"
+											   Margin="10 10"
+											   HorizontalAlignment="Right"/>
+									<TextBlock Text="Номер паспорта:"
+											   Margin="10 10"
+											   HorizontalAlignment="Right"/>
+									<TextBlock Text="Место работы:"
+											   Margin="10 10"
+											   HorizontalAlignment="Right"/>
+								</StackPanel>
+								<StackPanel Orientation="Vertical">
+									<TextBox Watermark="Last Name"
+											 Margin="0 6"
+											 FontSize="13"
+											 MinHeight="10"
+											 Height="25"/>
+									<TextBox Watermark="First Name"
+											 Margin="0 6"
+											 FontSize="13"
+											 MinHeight="10"
+											 Height="25"/>
+									<TextBox Watermark="Patronumic"
+											 Margin="0 6"
+											 FontSize="13"
+											 MinHeight="10"
+											 Height="25"/>
+									<TextBox Watermark="Seria passport"
+											 Margin="0 6"
+											 FontSize="13"
+											 MinHeight="10"
+											 Height="25"/>
+									<TextBox Watermark="Number passport"
+											 Margin="0 7"
+											 FontSize="13"
+											 MinHeight="10"
+											 Height="25"/>
+									<TextBox Watermark="Place a work"
+											 Margin="0 7"
+											 FontSize="13"
+											 MinHeight="10"
+											 Height="25"/>
+								</StackPanel>
+							</StackPanel>
+						</StackPanel>
+					</Border>
+				</StackPanel>
+				<StackPanel Orientation="Vertical"
+							Margin="10 10"
+							Grid.Column="1">
+					<Border BorderBrush="Black"
+							BorderThickness="2"
+							Background="LightYellow">
+						<StackPanel Orientation="Vertical"
+							Grid.Column="0"
+							Margin="20 10">
+							<TextBlock Text="Полис"
+									   HorizontalAlignment="Center"/>
+							<StackPanel Orientation="Horizontal">
+								<StackPanel Orientation="Vertical">
+									<TextBlock Text="Номер полиса:"
+											   Margin="10 10"
+											   HorizontalAlignment="Right"/>
+									<TextBlock Text="Год окончания действия:"
+											   Margin="10 10"
+											   HorizontalAlignment="Right"/>
+									<TextBlock Text="Месяц окончания действия:"
+											   Margin="10 10"
+											   HorizontalAlignment="Right"/>
+									<TextBlock Text="Число окончания действия:"
+											   Margin="10 10"
+											   HorizontalAlignment="Right"/>
+								</StackPanel>
+								<StackPanel Orientation="Vertical">
+									<TextBox Watermark="Number policy"
+											 Margin="0 6"
+											 FontSize="13"
+											 MinHeight="10"
+											 Height="25"/>
+									<TextBox Watermark="Year the end a policy"
+											 Margin="0 6"
+											 FontSize="13"
+											 MinHeight="10"
+											 Height="25"/>
+									<TextBox Watermark="Month the end a policy"
+											 Margin="0 6"
+											 FontSize="13"
+											 MinHeight="10"
+											 Height="25"/>
+									<TextBox Watermark="Date the end a policy"
+											 Margin="0 7"
+											 FontSize="13"
+											 MinHeight="10"
+											 Height="25"/>
+								</StackPanel>
+							</StackPanel>
+						</StackPanel>
+					</Border>
+				</StackPanel>
+				<StackPanel Orientation="Vertical"
+							Margin="10 0"
+							Grid.Column="0"
+							Grid.Row="2">
+					<Border BorderBrush="Black"
+							BorderThickness="2"
+							Background="LightYellow">
+						<StackPanel Orientation="Vertical"
+							Grid.Column="0"
+							Margin="20 10">
+							<TextBlock Text="Данные госпитализации"
+									   HorizontalAlignment="Center"/>
+							<StackPanel Orientation="Horizontal"
+										HorizontalAlignment="Center">
+								<StackPanel Orientation="Vertical">
+									<TextBlock Text="Код:"
+											   Margin="10 10"
+											   HorizontalAlignment="Right"/>
+									<TextBlock Text="Дата:"
+											   Margin="10 10"
+											   HorizontalAlignment="Right"/>
+									<TextBlock Text="Цель:"
+											   Margin="10 10"
+											   HorizontalAlignment="Right"/>
+									<TextBlock Text="Срок:"
+											   Margin="10 10"
+											   HorizontalAlignment="Right"/>
+								</StackPanel>
+								<StackPanel Orientation="Vertical">
+									<TextBox Watermark="Code"
+											 Margin="0 6"
+											 FontSize="13"
+											 MinHeight="10"
+											 Height="25"/>
+									<TextBox Watermark="Date"
+											 Margin="0 6"
+											 FontSize="13"
+											 MinHeight="10"
+											 Height="25"/>
+									<TextBox Watermark="Goal"
+											 Margin="0 6"
+											 FontSize="13"
+											 MinHeight="10"
+											 Height="25"/>
+									<TextBox Watermark="Term"
+											 Margin="0 7"
+											 FontSize="13"
+											 MinHeight="10"
+											 Height="25"/>
+								</StackPanel>
+							</StackPanel>
+						</StackPanel>
+					</Border>
+				</StackPanel>
+				<Button Grid.Column="2"
+						Grid.Row="2"
+						HorizontalAlignment="Right"
+						VerticalAlignment="Bottom"
+						Command="{Binding HomeOpen}">
+					<Image Source="/Assets/home.jpg"
+						   Width="100"/>
+				</Button>
+			</Grid>
+		</StackPanel>
+	</Grid>
+</UserControl>
