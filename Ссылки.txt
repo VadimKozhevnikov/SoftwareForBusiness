@@ -1,0 +1,6 @@
+1) https://nationalteam.worldskills.ru/skills/proektirovanie-diagrammy-posledovatelnosti-uml-sequence-diagram/
+2) https://metanit.com/sharp/net/2.6.php
+3) https://asp.NET
+4) https://habr.com/ru/articles/181772
+5) https://chatru.net/
+6) https://metanit.com/sharp/efcore/3.1.php
