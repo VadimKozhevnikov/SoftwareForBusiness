@@ -1,0 +1,56 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Avalonia.FreeDesktop
+build_property.ProjectDir = C:\Users\Вадим\OneDrive\Рабочий стол\Чемпионат\Avalonia-master\src\Avalonia.FreeDesktop\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/Вадим/OneDrive/Рабочий стол/Чемпионат/Avalonia-master/src/Avalonia.FreeDesktop/DBusXml/com.canonical.AppMenu.Registrar.xml]
+build_metadata.AdditionalFiles.DBusGeneratorMode = Proxy
+
+[C:/Users/Вадим/OneDrive/Рабочий стол/Чемпионат/Avalonia-master/src/Avalonia.FreeDesktop/DBusXml/com.canonical.dbusmenu.xml]
+build_metadata.AdditionalFiles.DBusGeneratorMode = Handler
+
+[C:/Users/Вадим/OneDrive/Рабочий стол/Чемпионат/Avalonia-master/src/Avalonia.FreeDesktop/DBusXml/org.fcitx.Fcitx.InputContext.xml]
+build_metadata.AdditionalFiles.DBusGeneratorMode = Proxy
+
+[C:/Users/Вадим/OneDrive/Рабочий стол/Чемпионат/Avalonia-master/src/Avalonia.FreeDesktop/DBusXml/org.fcitx.Fcitx.InputMethod.xml]
+build_metadata.AdditionalFiles.DBusGeneratorMode = Proxy
+
+[C:/Users/Вадим/OneDrive/Рабочий стол/Чемпионат/Avalonia-master/src/Avalonia.FreeDesktop/DBusXml/org.fcitx.Fcitx.InputContext1.xml]
+build_metadata.AdditionalFiles.DBusGeneratorMode = Proxy
+
+[C:/Users/Вадим/OneDrive/Рабочий стол/Чемпионат/Avalonia-master/src/Avalonia.FreeDesktop/DBusXml/org.fcitx.Fcitx.InputMethod1.xml]
+build_metadata.AdditionalFiles.DBusGeneratorMode = Proxy
+
+[C:/Users/Вадим/OneDrive/Рабочий стол/Чемпионат/Avalonia-master/src/Avalonia.FreeDesktop/DBusXml/org.freedesktop.DBus.xml]
+build_metadata.AdditionalFiles.DBusGeneratorMode = Proxy
+
+[C:/Users/Вадим/OneDrive/Рабочий стол/Чемпионат/Avalonia-master/src/Avalonia.FreeDesktop/DBusXml/org.freedesktop.IBus.Portal.xml]
+build_metadata.AdditionalFiles.DBusGeneratorMode = Proxy
+
+[C:/Users/Вадим/OneDrive/Рабочий стол/Чемпионат/Avalonia-master/src/Avalonia.FreeDesktop/DBusXml/org.freedesktop.portal.FileChooser.xml]
+build_metadata.AdditionalFiles.DBusGeneratorMode = Proxy
+
+[C:/Users/Вадим/OneDrive/Рабочий стол/Чемпионат/Avalonia-master/src/Avalonia.FreeDesktop/DBusXml/org.freedesktop.portal.Request.xml]
+build_metadata.AdditionalFiles.DBusGeneratorMode = Proxy
+
+[C:/Users/Вадим/OneDrive/Рабочий стол/Чемпионат/Avalonia-master/src/Avalonia.FreeDesktop/DBusXml/org.freedesktop.portal.Settings.xml]
+build_metadata.AdditionalFiles.DBusGeneratorMode = Proxy
+
+[C:/Users/Вадим/OneDrive/Рабочий стол/Чемпионат/Avalonia-master/src/Avalonia.FreeDesktop/DBusXml/org.kde.StatusNotifierWatcher.xml]
+build_metadata.AdditionalFiles.DBusGeneratorMode = Proxy
+
+[C:/Users/Вадим/OneDrive/Рабочий стол/Чемпионат/Avalonia-master/src/Avalonia.FreeDesktop/DBusXml/org.kde.StatusNotifierItem.xml]
+build_metadata.AdditionalFiles.DBusGeneratorMode = Handler

@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "SKFaAwuI7owcNRRFDo7GuJaG01v2knKCgwSiHEm95pb4uVWHtteM3MAXSclAUldoAY++d2Q2CUhicvx+ROjUpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\samples\\IntegrationTestApp\\IntegrationTestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Вадим\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.22045.20230930\\avalonia.angle.windows.natives.2.1.22045.20230930.nupkg.sha512",
+    "C:\\Users\\Вадим\\.nuget\\packages\\avalonia.buildservices\\0.0.29\\avalonia.buildservices.0.0.29.nupkg.sha512",
+    "C:\\Users\\Вадим\\.nuget\\packages\\dotnet.bundle\\0.9.13\\dotnet.bundle.0.9.13.nupkg.sha512",
+    "C:\\Users\\Вадим\\.nuget\\packages\\harfbuzzsharp\\7.3.0\\harfbuzzsharp.7.3.0.nupkg.sha512",
+    "C:\\Users\\Вадим\\.nuget\\packages\\harfbuzzsharp.nativeassets.linux\\7.3.0\\harfbuzzsharp.nativeassets.linux.7.3.0.nupkg.sha512",
+    "C:\\Users\\Вадим\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\7.3.0\\harfbuzzsharp.nativeassets.macos.7.3.0.nupkg.sha512",
+    "C:\\Users\\Вадим\\.nuget\\packages\\harfbuzzsharp.nativeassets.webassembly\\7.3.0\\harfbuzzsharp.nativeassets.webassembly.7.3.0.nupkg.sha512",
+    "C:\\Users\\Вадим\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\7.3.0\\harfbuzzsharp.nativeassets.win32.7.3.0.nupkg.sha512",
+    "C:\\Users\\Вадим\\.nuget\\packages\\microcom.runtime\\0.11.0\\microcom.runtime.0.11.0.nupkg.sha512",
+    "C:\\Users\\Вадим\\.nuget\\packages\\skiasharp\\2.88.7\\skiasharp.2.88.7.nupkg.sha512",
+    "C:\\Users\\Вадим\\.nuget\\packages\\skiasharp.nativeassets.linux\\2.88.7\\skiasharp.nativeassets.linux.2.88.7.nupkg.sha512",
+    "C:\\Users\\Вадим\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.7\\skiasharp.nativeassets.macos.2.88.7.nupkg.sha512",
+    "C:\\Users\\Вадим\\.nuget\\packages\\skiasharp.nativeassets.webassembly\\2.88.7\\skiasharp.nativeassets.webassembly.2.88.7.nupkg.sha512",
+    "C:\\Users\\Вадим\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.7\\skiasharp.nativeassets.win32.2.88.7.nupkg.sha512",
+    "C:\\Users\\Вадим\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Users\\Вадим\\.nuget\\packages\\system.io.pipelines\\6.0.0\\system.io.pipelines.6.0.0.nupkg.sha512",
+    "C:\\Users\\Вадим\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Вадим\\.nuget\\packages\\tmds.dbus.protocol\\0.15.0\\tmds.dbus.protocol.0.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}

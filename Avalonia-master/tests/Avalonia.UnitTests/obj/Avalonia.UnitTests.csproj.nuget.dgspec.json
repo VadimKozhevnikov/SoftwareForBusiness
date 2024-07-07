@@ -1,0 +1,2162 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\tests\\Avalonia.UnitTests\\Avalonia.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\packages\\Avalonia\\Avalonia.csproj": {
+      "version": "11.1.999",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\packages\\Avalonia\\Avalonia.csproj",
+        "projectName": "Avalonia",
+        "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\packages\\Avalonia\\Avalonia.csproj",
+        "packagesPath": "C:\\Users\\Вадим\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\packages\\Avalonia\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\NuGet.Config",
+          "C:\\Users\\Вадим\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461",
+          "net6.0",
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://aka.ms/skiasharp-eap/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Build.Tasks\\Avalonia.Build.Tasks.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Build.Tasks\\Avalonia.Build.Tasks.csproj",
+                "privateAssets": "all"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.DesignerSupport\\Avalonia.DesignerSupport.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.DesignerSupport\\Avalonia.DesignerSupport.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Dialogs\\Avalonia.Dialogs.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Dialogs\\Avalonia.Dialogs.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Metal\\Avalonia.Metal.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Metal\\Avalonia.Metal.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.MicroCom\\Avalonia.MicroCom.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.MicroCom\\Avalonia.MicroCom.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.OpenGL\\Avalonia.OpenGL.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.OpenGL\\Avalonia.OpenGL.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Remote.Protocol\\Avalonia.Remote.Protocol.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Remote.Protocol\\Avalonia.Remote.Protocol.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup\\Avalonia.Markup.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup\\Avalonia.Markup.csproj"
+              }
+            }
+          },
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Build.Tasks\\Avalonia.Build.Tasks.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Build.Tasks\\Avalonia.Build.Tasks.csproj",
+                "privateAssets": "all"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.DesignerSupport\\Avalonia.DesignerSupport.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.DesignerSupport\\Avalonia.DesignerSupport.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Dialogs\\Avalonia.Dialogs.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Dialogs\\Avalonia.Dialogs.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Metal\\Avalonia.Metal.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Metal\\Avalonia.Metal.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.MicroCom\\Avalonia.MicroCom.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.MicroCom\\Avalonia.MicroCom.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.OpenGL\\Avalonia.OpenGL.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.OpenGL\\Avalonia.OpenGL.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Remote.Protocol\\Avalonia.Remote.Protocol.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Remote.Protocol\\Avalonia.Remote.Protocol.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup\\Avalonia.Markup.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup\\Avalonia.Markup.csproj"
+              }
+            }
+          },
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Build.Tasks\\Avalonia.Build.Tasks.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Build.Tasks\\Avalonia.Build.Tasks.csproj",
+                "privateAssets": "all"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.DesignerSupport\\Avalonia.DesignerSupport.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.DesignerSupport\\Avalonia.DesignerSupport.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Dialogs\\Avalonia.Dialogs.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Dialogs\\Avalonia.Dialogs.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Metal\\Avalonia.Metal.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Metal\\Avalonia.Metal.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.MicroCom\\Avalonia.MicroCom.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.MicroCom\\Avalonia.MicroCom.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.OpenGL\\Avalonia.OpenGL.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.OpenGL\\Avalonia.OpenGL.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Remote.Protocol\\Avalonia.Remote.Protocol.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Remote.Protocol\\Avalonia.Remote.Protocol.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup\\Avalonia.Markup.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup\\Avalonia.Markup.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Avalonia.BuildServices": {
+              "target": "Package",
+              "version": "[0.0.29, )"
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        },
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "Avalonia.BuildServices": {
+              "target": "Package",
+              "version": "[0.0.29, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Avalonia.BuildServices": {
+              "target": "Package",
+              "version": "[0.0.29, )"
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj": {
+      "version": "11.1.999",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj",
+        "projectName": "Avalonia.Base",
+        "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj",
+        "packagesPath": "C:\\Users\\Вадим\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\NuGet.Config",
+          "C:\\Users\\Вадим\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0",
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://aka.ms/skiasharp-eap/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          },
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Bcl.AsyncInterfaces": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.5.3, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.Threading.Tasks.Extensions": {
+              "target": "Package",
+              "version": "[4.5.4, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Build.Tasks\\Avalonia.Build.Tasks.csproj": {
+      "version": "11.1.999",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Build.Tasks\\Avalonia.Build.Tasks.csproj",
+        "projectName": "Avalonia.Build.Tasks",
+        "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Build.Tasks\\Avalonia.Build.Tasks.csproj",
+        "packagesPath": "C:\\Users\\Вадим\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Build.Tasks\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\NuGet.Config",
+          "C:\\Users\\Вадим\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://aka.ms/skiasharp-eap/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1605"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Build.Framework": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[15.1.548, )"
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Mono.Cecil": {
+              "target": "Package",
+              "version": "[0.11.5, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj": {
+      "version": "11.1.999",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj",
+        "projectName": "Avalonia.Controls",
+        "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj",
+        "packagesPath": "C:\\Users\\Вадим\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\NuGet.Config",
+          "C:\\Users\\Вадим\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0",
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://aka.ms/skiasharp-eap/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Remote.Protocol\\Avalonia.Remote.Protocol.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Remote.Protocol\\Avalonia.Remote.Protocol.csproj"
+              }
+            }
+          },
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Remote.Protocol\\Avalonia.Remote.Protocol.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Remote.Protocol\\Avalonia.Remote.Protocol.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.DesignerSupport\\Avalonia.DesignerSupport.csproj": {
+      "version": "0.7.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.DesignerSupport\\Avalonia.DesignerSupport.csproj",
+        "projectName": "Avalonia.DesignerSupport",
+        "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.DesignerSupport\\Avalonia.DesignerSupport.csproj",
+        "packagesPath": "C:\\Users\\Вадим\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.DesignerSupport\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\NuGet.Config",
+          "C:\\Users\\Вадим\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0",
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://aka.ms/skiasharp-eap/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup\\Avalonia.Markup.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup\\Avalonia.Markup.csproj"
+              }
+            }
+          },
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup\\Avalonia.Markup.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup\\Avalonia.Markup.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Dialogs\\Avalonia.Dialogs.csproj": {
+      "version": "11.1.999",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Dialogs\\Avalonia.Dialogs.csproj",
+        "projectName": "Avalonia.Dialogs",
+        "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Dialogs\\Avalonia.Dialogs.csproj",
+        "packagesPath": "C:\\Users\\Вадим\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Dialogs\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\NuGet.Config",
+          "C:\\Users\\Вадим\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0",
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://aka.ms/skiasharp-eap/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj"
+              }
+            }
+          },
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Metal\\Avalonia.Metal.csproj": {
+      "version": "11.1.999",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Metal\\Avalonia.Metal.csproj",
+        "projectName": "Avalonia.Metal",
+        "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Metal\\Avalonia.Metal.csproj",
+        "packagesPath": "C:\\Users\\Вадим\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Metal\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\NuGet.Config",
+          "C:\\Users\\Вадим\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0",
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://aka.ms/skiasharp-eap/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj"
+              }
+            }
+          },
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.MicroCom\\Avalonia.MicroCom.csproj": {
+      "version": "11.1.999",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.MicroCom\\Avalonia.MicroCom.csproj",
+        "projectName": "Avalonia.MicroCom",
+        "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.MicroCom\\Avalonia.MicroCom.csproj",
+        "packagesPath": "C:\\Users\\Вадим\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.MicroCom\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\NuGet.Config",
+          "C:\\Users\\Вадим\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://aka.ms/skiasharp-eap/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "MicroCom.Runtime": {
+              "target": "Package",
+              "version": "[0.11.0, )"
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.OpenGL\\Avalonia.OpenGL.csproj": {
+      "version": "11.1.999",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.OpenGL\\Avalonia.OpenGL.csproj",
+        "projectName": "Avalonia.OpenGL",
+        "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.OpenGL\\Avalonia.OpenGL.csproj",
+        "packagesPath": "C:\\Users\\Вадим\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.OpenGL\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\NuGet.Config",
+          "C:\\Users\\Вадим\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0",
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://aka.ms/skiasharp-eap/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj"
+              }
+            }
+          },
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Remote.Protocol\\Avalonia.Remote.Protocol.csproj": {
+      "version": "11.1.999",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Remote.Protocol\\Avalonia.Remote.Protocol.csproj",
+        "projectName": "Avalonia.Remote.Protocol",
+        "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Remote.Protocol\\Avalonia.Remote.Protocol.csproj",
+        "packagesPath": "C:\\Users\\Вадим\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Remote.Protocol\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\NuGet.Config",
+          "C:\\Users\\Вадим\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0",
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://aka.ms/skiasharp-eap/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          },
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Themes.Simple\\Avalonia.Themes.Simple.csproj": {
+      "version": "11.1.999",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Themes.Simple\\Avalonia.Themes.Simple.csproj",
+        "projectName": "Avalonia.Themes.Simple",
+        "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Themes.Simple\\Avalonia.Themes.Simple.csproj",
+        "packagesPath": "C:\\Users\\Вадим\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Themes.Simple\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\NuGet.Config",
+          "C:\\Users\\Вадим\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0",
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://aka.ms/skiasharp-eap/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Dialogs\\Avalonia.Dialogs.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Dialogs\\Avalonia.Dialogs.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj"
+              }
+            }
+          },
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Dialogs\\Avalonia.Dialogs.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Dialogs\\Avalonia.Dialogs.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Headless\\Avalonia.Headless\\Avalonia.Headless.csproj": {
+      "version": "11.1.999",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Headless\\Avalonia.Headless\\Avalonia.Headless.csproj",
+        "projectName": "Avalonia.Headless",
+        "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Headless\\Avalonia.Headless\\Avalonia.Headless.csproj",
+        "packagesPath": "C:\\Users\\Вадим\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Headless\\Avalonia.Headless\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\NuGet.Config",
+          "C:\\Users\\Вадим\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0",
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://aka.ms/skiasharp-eap/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\packages\\Avalonia\\Avalonia.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\packages\\Avalonia\\Avalonia.csproj"
+              }
+            }
+          },
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\packages\\Avalonia\\Avalonia.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\packages\\Avalonia\\Avalonia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj": {
+      "version": "11.1.999",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj",
+        "projectName": "Avalonia.Markup.Xaml",
+        "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj",
+        "packagesPath": "C:\\Users\\Вадим\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\NuGet.Config",
+          "C:\\Users\\Вадим\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0",
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://aka.ms/skiasharp-eap/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup\\Avalonia.Markup.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup\\Avalonia.Markup.csproj"
+              }
+            }
+          },
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup\\Avalonia.Markup.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup\\Avalonia.Markup.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup\\Avalonia.Markup.csproj": {
+      "version": "11.1.999",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup\\Avalonia.Markup.csproj",
+        "projectName": "Avalonia.Markup",
+        "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup\\Avalonia.Markup.csproj",
+        "packagesPath": "C:\\Users\\Вадим\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\NuGet.Config",
+          "C:\\Users\\Вадим\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0",
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://aka.ms/skiasharp-eap/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj"
+              }
+            }
+          },
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\tests\\Avalonia.UnitTests\\Avalonia.UnitTests.csproj": {
+      "version": "11.1.999",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\tests\\Avalonia.UnitTests\\Avalonia.UnitTests.csproj",
+        "projectName": "Avalonia.UnitTests",
+        "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\tests\\Avalonia.UnitTests\\Avalonia.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\Вадим\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\tests\\Avalonia.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\NuGet.Config",
+          "C:\\Users\\Вадим\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://aka.ms/skiasharp-eap/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Base\\Avalonia.Base.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Controls\\Avalonia.Controls.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Themes.Simple\\Avalonia.Themes.Simple.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Avalonia.Themes.Simple\\Avalonia.Themes.Simple.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Headless\\Avalonia.Headless\\Avalonia.Headless.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Headless\\Avalonia.Headless\\Avalonia.Headless.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup.Xaml\\Avalonia.Markup.Xaml.csproj"
+              },
+              "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup\\Avalonia.Markup.csproj": {
+                "projectPath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\Markup\\Avalonia.Markup\\Avalonia.Markup.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "HarfBuzzSharp": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.7.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Reactive": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Xunit.SkippableFact": {
+              "target": "Package",
+              "version": "[1.4.13, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.assert": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.core": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.extensibility.execution": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.console": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

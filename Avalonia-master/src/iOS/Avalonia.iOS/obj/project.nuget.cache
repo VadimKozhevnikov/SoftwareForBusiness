@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "03Asr3gCTjqItzHQKL9Wa0Pg0F2omYVNXcOEcdWmfm1/+QxP5r1Wf1b26oQpKmDnj/17Bsze5LZDVkfczvx2qQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\src\\iOS\\Avalonia.iOS\\Avalonia.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Вадим\\.nuget\\packages\\microsoft.ios.ref\\16.4.7133\\microsoft.ios.ref.16.4.7133.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Для некоторых целевых платформ отсутствует требуемая версия, несмотря на то, что указана платформа: net7.0-tvos."
+    }
+  ]
+}

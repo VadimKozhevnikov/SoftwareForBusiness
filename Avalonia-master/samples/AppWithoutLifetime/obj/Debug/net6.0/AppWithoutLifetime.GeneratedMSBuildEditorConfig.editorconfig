@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = AppWithoutLifetime
+build_property.ProjectDir = C:\Users\Вадим\OneDrive\Рабочий стол\Чемпионат\Avalonia-master\samples\AppWithoutLifetime\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

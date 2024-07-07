@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)nuke.common\6.2.1\build\Nuke.Common.targets" Condition="Exists('$(NuGetPackageRoot)nuke.common\6.2.1\build\Nuke.Common.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.debugging.tools.pdbstr\20230731.1609.0\build\Microsoft.Debugging.Tools.PdbStr.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.debugging.tools.pdbstr\20230731.1609.0\build\Microsoft.Debugging.Tools.PdbStr.targets')" />
+  </ImportGroup>
+</Project>

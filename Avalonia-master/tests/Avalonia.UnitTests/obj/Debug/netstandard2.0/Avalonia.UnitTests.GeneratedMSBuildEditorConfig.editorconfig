@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Avalonia.UnitTests
+build_property.ProjectDir = C:\Users\Вадим\OneDrive\Рабочий стол\Чемпионат\Avalonia-master\tests\Avalonia.UnitTests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

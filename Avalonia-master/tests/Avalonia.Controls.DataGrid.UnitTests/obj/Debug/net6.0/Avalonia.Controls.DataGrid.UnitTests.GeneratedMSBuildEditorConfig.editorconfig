@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Avalonia.Controls.DataGrid.UnitTests
+build_property.ProjectDir = C:\Users\Вадим\OneDrive\Рабочий стол\Чемпионат\Avalonia-master\tests\Avalonia.Controls.DataGrid.UnitTests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

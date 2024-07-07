@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "HDyFRI1RTJTchODX3s5RcJoIoeip6aVAmSGFvAInLgs3F/4S7SaINRZIJmh8WiiMg0s94MaABdcyZjOaB4oUcQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Вадим\\OneDrive\\Рабочий стол\\Чемпионат\\Avalonia-master\\samples\\ControlCatalog.Tizen\\ControlCatalog.Tizen.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Для некоторых целевых платформ отсутствует требуемая версия, несмотря на то, что указана платформа: net7.0-tizen."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(TargetFramework)' == '' AND '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)xunit.core\2.4.2\buildMultiTargeting\xunit.core.targets" Condition="Exists('$(NuGetPackageRoot)xunit.core\2.4.2\buildMultiTargeting\xunit.core.targets')" />
+  </ImportGroup>
+  <ImportGroup Condition=" '$(TargetFramework)' == 'net462' AND '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)xunit.core\2.4.2\build\xunit.core.targets" Condition="Exists('$(NuGetPackageRoot)xunit.core\2.4.2\build\xunit.core.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.net.test.sdk\15.7.0\build\net45\Microsoft.Net.Test.Sdk.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.net.test.sdk\15.7.0\build\net45\Microsoft.Net.Test.Sdk.targets')" />
+    <Import Project="$(NuGetPackageRoot)harfbuzzsharp.nativeassets.win32\7.3.0\buildTransitive\net462\HarfBuzzSharp.NativeAssets.Win32.targets" Condition="Exists('$(NuGetPackageRoot)harfbuzzsharp.nativeassets.win32\7.3.0\buildTransitive\net462\HarfBuzzSharp.NativeAssets.Win32.targets')" />
+    <Import Project="$(NuGetPackageRoot)harfbuzzsharp.nativeassets.macos\7.3.0\buildTransitive\net462\HarfBuzzSharp.NativeAssets.macOS.targets" Condition="Exists('$(NuGetPackageRoot)harfbuzzsharp.nativeassets.macos\7.3.0\buildTransitive\net462\HarfBuzzSharp.NativeAssets.macOS.targets')" />
+    <Import Project="$(NuGetPackageRoot)avalonia.buildservices\0.0.29\buildTransitive\Avalonia.BuildServices.targets" Condition="Exists('$(NuGetPackageRoot)avalonia.buildservices\0.0.29\buildTransitive\Avalonia.BuildServices.targets')" />
+  </ImportGroup>
+</Project>

@@ -1,0 +1,9 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = SafeAreaDemo.iOS
+build_property.ProjectDir = C:\Users\Вадим\OneDrive\Рабочий стол\Чемпионат\Avalonia-master\samples\SafeAreaDemo.iOS\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
